@@ -1,0 +1,84 @@
+@charset "utf-8";
+.head_h1 h1 {
+	font-size: 30px;
+}
+.third_gongxiao {
+	background-color: #fff;
+	margin-bottom: 8px;
+	margin-top: 8px;
+	
+}
+.third_gongxiao .container {
+	padding-top: 80px;	
+}
+.third_gongxiao .gongxiao_dibu {
+	margin-bottom: 80px;
+}
+
+.third_gongxiao ul li a {
+	font-size: 16px;
+	
+}
+.third_gongxiao p {
+	font-size: 14px;
+	line-height: 20px;
+	padding: 10px;
+}
+/*左边*/
+.nav-tabs > li.active > a, 
+.nav-tabs > li.active > a:hover, 
+.nav-tabs > li.active > a:focus {
+	background-color: #eaf7dd;
+	border: none;
+	border-radius: 4px 20px 4px 20px;
+}
+/*右边*/
+.third_gongxiao .right_main {
+	background-color: #eaf7dd;
+    border-radius: 8px 40px 8px 40px;
+	min-height:300px;
+	_height:300px;
+    margin-left: 30px;
+}
+.third_gongxiao .nav-tabs {
+	border: none;
+}
+/*左边*/
+.third_gongxiao ul li a:hover,.third_gongxiao ul li a:focus {
+	background-color: #eaf7dd;
+	border-radius: 4px 20px 4px 20px;
+	border: none;
+	color: #666;
+}
+.third_gongxiao .right_main .dd_shouhang {
+	text-indent: 2em;
+	font-size: 14px;
+}
+.third_gongxiao .right_main .dt_shouhang {
+	font-size: 14px;
+}
+/*清楚抖动*/
+.nav-tabs > li > a {
+	border: none;
+}
+/*额外底部边距*/
+   .ewaibianju {
+	margin-bottom:  200px;
+}
+.taobao_qunamai {
+	color: #589C1F;
+
+}
+.taobao_qunamai:hover {
+	color: #305A0D;
+}
+.shouhang_qunamai {
+	text-indent: 2em;
+}
+.third_gongxiao .img-rounded {
+	border: 1px solid #ddd;
+}
+.third_gongxiao .tuofa_h3, .tuofa_h4 {
+	font-size: 20px;
+	color: #589C1F;
+}
